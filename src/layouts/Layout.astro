@@ -1,0 +1,29 @@
+---
+import '../styles/global.css';
+import AppWrapper from '../components/UI/AppWrapper';
+---
+
+<!doctype html>
+<html lang="pt-BR" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/logos/rpr-pets-logo.png" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{Astro.props.title ?? 'RPR Pet'}</title>
+    <meta name="description" content="RPR Pet — Banho e Tosa, Creche e Hotel para seu melhor amigo." />
+  </head>
+  <body>
+    <AppWrapper client:load>
+      <slot />
+    </AppWrapper>
+  </body>
+</html>
+
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    min-width: 100%;
+  }
+</style>

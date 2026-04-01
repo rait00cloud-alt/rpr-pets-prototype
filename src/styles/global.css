@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Izmir';
+  src: url('/fonts/static/izmir-extralight.otf') format('opentype');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'Izmir';
+  src: url('/fonts/static/izmir-regular.otf') format('opentype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Izmir';
+  src: url('/fonts/static/izmir-medium.otf') format('opentype');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Izmir';
+  src: url('/fonts/static/izmir-bold.otf') format('opentype');
+  font-weight: 700;
+}
+
+* {
+  font-family: 'Izmir', sans-serif;
+}

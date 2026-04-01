@@ -1,0 +1,58 @@
+---
+import Layout from '../layouts/Layout.astro';
+import LeadForm from '../components/Contact/LeadForm';
+import VideoBackground from '../components/Home/VideoBackground';
+import ServicesSection from '../components/Services/ServicesSection';
+---
+
+<Layout title="RPR Pets">
+
+  <!-- HERO -->
+  <VideoBackground client:load/>
+
+   <!-- SOBRE NÓS -->
+  <section id="sobre" class="py-16 bg-[#1a1a1a] px-8 ">
+    <div class="max-w-5xl mx-auto flex flex-col gap-4">
+      <p class="text-[#fe7320] font-black uppercase tracking-widest text-xs text-start ">Nossa história</p>
+      <h2 class="text-2xl sm:text-4xl font-black text-white text-start  leading-tight">
+        Referência em cuidado e<br/>entretenimento para pets
+      </h2>
+
+      <div class="text-left  gap-4">
+        <p class="text-white/70 text-base leading-relaxed">
+          Inaugurada em <strong class="text-white">2022</strong>, a RPR Pet nasceu para suprir a escassez desse tipo de serviço na região, com o objetivo de oferecer o melhor bem-estar para o seu pet. Desde então, nos tornamos referência em atendimento e entretenimento animal.
+        </p>
+        <p class="text-white/70 text-base leading-relaxed">
+          Agora em <strong class="text-white">2026</strong>, com novos proprietários e um espaço ainda melhor, seguimos com o mesmo compromisso: cuidar do seu melhor amigo com todo o carinho que ele merece.
+        </p>
+      </div>
+
+      
+    </div>
+  </section>
+
+  <!-- SERVIÇOS -->
+  <ServicesSection client:load />
+
+ 
+
+  <!-- FORMULÁRIO DE LEADS -->
+  <section id="contato" class="relative py-24 px-6 bg-[#f2f0f1] overflow-hidden">
+    <!-- patas decorativas -->
+    <svg class="absolute top-6 left-4 w-8 h-8 text-[#fe7320]/15 rotate-[-15deg]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2">
+      <circle cx="11" cy="4" r="2"/><circle cx="18" cy="4" r="2"/><circle cx="20" cy="10.5" r="2"/><circle cx="9" cy="10.5" r="2"/>
+      <path d="M12 22c-3.17 0-6-2.5-6-6 0-1.5.5-2.5 1.5-3.5L9 11h6l1.5 1.5c1 1 1.5 2 1.5 3.5 0 3.5-2.83 6-6 6z"/>
+    </svg>
+    <svg class="absolute bottom-8 right-6 w-10 h-10 text-[#55a2d8]/15 rotate-[20deg]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2">
+      <circle cx="11" cy="4" r="2"/><circle cx="18" cy="4" r="2"/><circle cx="20" cy="10.5" r="2"/><circle cx="9" cy="10.5" r="2"/>
+      <path d="M12 22c-3.17 0-6-2.5-6-6 0-1.5.5-2.5 1.5-3.5L9 11h6l1.5 1.5c1 1 1.5 2 1.5 3.5 0 3.5-2.83 6-6 6z"/>
+    </svg>
+    <div class="max-w-2xl mx-auto text-center relative z-10">
+      <p class="text-[#fe7320] font-black uppercase tracking-widest text-xs mb-2">Fale conosco</p>
+      <h2 class="text-3xl sm:text-4xl font-black text-[#1a1a1a] mb-4">Agende para seu pet</h2>
+      <p class="text-gray-500 text-sm mb-10">Preencha o formulário e entraremos em contato pelo WhatsApp.</p>
+      <LeadForm client:load />
+    </div>
+  </section>
+
+</Layout>

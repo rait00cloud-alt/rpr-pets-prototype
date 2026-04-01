@@ -1,0 +1,293 @@
+{
+  "menu": {
+  "home": "INÍCIO",
+  "servicos":"SERVIÇOS",
+  "about_us": "SOBRE NÓS",
+  "privacidade": "POLÍTICA DE PRIVACIDADE",
+  "contact": "CONTATO"
+},
+"fab":{
+"tip":"Fale conosco"
+},
+"bio":{
+  "title":"Bellic World",
+  "team":"Nossos Serviços",
+  
+  "text_01": "A Bellic World é sua parceira especializada em soluções táticas e documentação bélica. Oferecemos assessoria completa para regularização de armas, licenciamento e treinamento profissional.",
+  "text_02": "Com experiência consolidada no mercado, atuamos como despachante bélico, facilitando processos de CR/CAC, porte e posse, além de licenças para caçadores. Nossa equipe está preparada para atender suas necessidades com agilidade e segurança.",
+  "text_03": "Oferecemos cursos de tiro profissionais e certificação, além de importação e venda de acessórios táticos de alta qualidade. Nosso compromisso é com a excelência e conformidade legal em todos os serviços.",
+  "text_04": "Seja para regularização documental, treinamento ou aquisição de equipamentos, a Bellic World oferece soluções completas e personalizadas para atiradores, colecionadores, caçadores e entusiastas.",
+  "text_05": "Bellic World — onde expertise encontra segurança. E segurança gera confiança."
+},
+
+  "politica": {
+    "titulo": "Política de Privacidade",
+    "introducao": "A Bellic World valoriza a sua privacidade. Esta Política de Privacidade explica como tratamos dados no contexto das nossas atividades de despachante bélico, cursos de tiro e comércio de acessórios táticos.",
+    
+    "coleta": {
+      "titulo": "1. Coleta de Informações",
+      "descricao": "Coletamos informações fornecidas voluntariamente por você, como nome, e-mail e dados de contato, bem como informações automáticas, como dados de acesso, cookies e comportamento de navegação."
+    },
+
+    "uso": {
+      "titulo": "2. Uso das Informações",
+      "descricao": "Utilizamos seus dados para melhorar nossos serviços, processar documentações, agendar cursos, otimizar atendimento e aprimorar o relacionamento com clientes e parceiros."
+    },
+
+    "compartilhamento": {
+      "titulo": "3. Compartilhamento de Dados",
+      "descricao": "Podemos compartilhar seus dados com órgãos competentes e parceiros estratégicos apenas quando necessário para execução de serviços. Não vendemos suas informações."
+    },
+
+    "direitos": {
+      "titulo": "4. Seus Direitos",
+      "descricao": "Você pode solicitar acesso, atualização ou exclusão dos seus dados a qualquer momento, conforme a Lei Geral de Proteção de Dados (LGPD)."
+    },
+
+    "contato": {
+      "titulo": "5. Contato",
+      "descricao": "Em caso de dúvidas sobre esta Política de Privacidade, envie um e-mail para: contato@belicworld.com.br."
+    }
+  },
+
+
+
+"sobre": {
+  "fundador":"Fundador e CEO",
+  "bio-01":"Especialista em documentação bélica e soluções táticas, o fundador da Bellic World construiu sua trajetória unindo conhecimento técnico à visão estratégica de negócios. A empresa atua no desenvolvimento de soluções completas para atiradores, colecionadores e caçadores, com foco em legalidade, segurança e excelência.",
+  "bio-02":"Com uma abordagem centrada em conformidade legal e resultados eficientes, lidera projetos que unem expertise, credibilidade e atendimento personalizado, transformando necessidades em soluções confiáveis no mercado."
+},
+
+"influencers":{
+  "bio":"Biografia",
+  "numbers":"Números",
+  "contato":"Entre em contato",
+  "hugo":{
+    "bio":"Hugo Souza, goleiro de 25 anos revelado pelo Flamengo, se firmou como um dos nomes mais confiáveis da posição no futebol brasileiro. Após passagem pelo futebol europeu, chegou ao Corinthians e rapidamente assumiu protagonismo com atuações decisivas. Alto, explosivo e seguro, Hugo se destaca pela personalidade em jogos grandes e hoje é referência no gol, mantendo-se no radar da Seleção Brasileira."
+  },
+  "julia":{
+    "bio":"Júlia Yamaguchi é atriz brasileira, nascida e criada em São Miguel Paulista, na Zona Leste de São Paulo. Filha de mãe japonesa e pai português, formou-se em Relações Públicas pela Unesp antes de se dedicar integralmente à arte e à atuação. Ganhou destaque nacional ao interpretar Scheylan na série Sintonia (Netflix), papel que marcou sua trajetória por abordar temas sociais e emocionais com autenticidade e intensidade."
+  },
+  "talles":{
+    "bio":"Talles Magno, atacante de 22 anos revelado pelo Vasco da Gama, é uma das principais promessas do futebol brasileiro. Após se destacar na MLS pelo New York City FC, onde conquistou a MLS Cup, retornou ao país para defender o Corinthians por empréstimo. Rápido, habilidoso e versátil, Talles se consolida como peça ofensiva importante e segue em ascensão no cenário nacional e internacional."
+  },
+  "gordao":{
+    "bio":"Gordão da XJ, nome artístico de Sidney, é um influenciador brasileiro que ganhou notoriedade ao compartilhar seu cotidiano com humor e sua jornada de emagrecimento. Ele chegou a pesar mais de 330 kg e virou destaque nacional ao expor sua luta contra a obesidade, perdendo mais de 100 kg em um processo acompanhado por profissionais. Sua autenticidade, desafios virais — como o que lhe rendeu uma casa após atingir uma meta de peso — e forte presença nas redes sociais o transformaram em símbolo de superação e inspiração para milhões de seguidores."
+  },
+  "ldjunior":{
+    "bio":"LD Junior é um artista brasileiro multifacetado que vem ganhando destaque por sua autenticidade e talento. Com forte presença nas redes sociais, ele combina música, atitude e visão de mundo. Sua arte transita por ritmos urbanos, trazendo mensagens de empoderamento, identidade, cultura e vivências periféricas. Criativo e carismático, ele mantém uma conexão intensa com o público. Mais do que entreter, LDJunior inspira e transforma, tornando-se uma referência para uma nova geração de artistas que buscam se expressar de forma livre e verdadeira."
+  },
+  "anaclara":{
+    "bio":"Ana Clara Augusto é uma influenciadora digital brasileira que produz conteúdo sobre moda, estilo de vida e sua jornada acadêmica em Direito na UFRJ. Ela começou nas redes sociais aos 10 anos de idade e, mesmo sem planejar seguir carreira como influenciadora, conquistou um grande público graças à sua história e carisma."  },
+    "rafaella":{
+    "bio":"Rafaella Fontes é uma atleta brasileira de futevôlei e teqball, natural do Rio de Janeiro, conhecida por sua habilidade com a bola e competições de praia. Começou no futevôlei ainda jovem, acumulando diversos títulos em categorias feminina, mista e open em campeonatos nacionais. Paralelamente, também disputa futmesa e teve destaque no cenário competitivo do teqball. Em 2023, tornou‑se campeã mundial de Teqball representando o Flamengo e o Brasil, conquistando o título em Bangcoc e ganhando reconhecimento internacional no esporte. Sua trajetória evidencia versatilidade, técnica e conquistas significativas tanto no futevôlei quanto em modalidades com bola como o teqball."
+    },
+    "bruno":{
+      "bio":"Bruno Felipe nunca foi sobre atalhos. Em sua rotina, ele mostra como é ser pai solo de uma adolescente e como construiu sua trajetória com verdade, responsabilidade e constância, equilibrando trabalho, família e propósito no dia a dia. Desde cedo, o esporte e o cuidado com o corpo se tornaram pilares da sua vida — não apenas pela estética, mas pela mentalidade. O treino virou ferramenta de equilíbrio, a saúde se tornou prioridade e a rotina passou a ser conteúdo. Com o tempo, aquilo que era pessoal começou a inspirar outras pessoas. Empreendedor por essência, Bruno construiu sua presença digital mostrando exatamente quem ele é: família, relacionamento, treinos, trabalho, erros e evolução. Sem promessas vazias. Sem discursos prontos. Apenas consistência. Hoje, seu conteúdo conecta lifestyle, saúde e propósito de forma natural, criando identificação genuína com quem o acompanha. É essa verdade que transforma seguidores em comunidade e conteúdo em confiança — algo raro e extremamente valioso para marcas. Bruno Felipe representa uma geração que entende que resultado é consequência de processo. E que influência de verdade nasce quando a vida real encontra propósito."
+    }
+
+},
+  "hero": {
+    "title": "Soluções completas em documentação bélica e acessórios táticos",
+    "button": "Conheça nossos serviços",
+    "headline":"Regularização, treinamento e equipamentos de qualidade.",
+    "headline-02":"Sua segurança começa com a documentação correta."
+  },
+
+  "language": {
+    "select": "Selecionar idioma"
+  },
+  "title": {
+    "main_heading": "Somos a ponte entre você e o impossível.",
+    "main_subheading":" Não vendemos ingresso. Vendemos o tipo de memória que muda sua história.",
+    "sub_heading": "Networking de alto nível."
+  },
+  "slide1_title": "Desbravando novos mundos.",
+  "slide1_description": "Do palco principal aos bastidores exclusivos. Conectamos pessoas a experiências únicas, criando memórias que duram para sempre. Epic é mais que um evento, é um legado.",
+  "slide2_title": "Acesso ao inacessível.",
+  "slide2_description": "Da Champions League à cena global da música. Conectamos artistas, criamos experiências únicas e levamos você para onde só os grandes chegam. Epic é presença. É influência. É história.",
+  "see_more_button": "Ver Mais",
+  "close-btn": "Fechar",
+  "form_title": "Seja um Influenciador Legend",
+  "form_fields": {
+    "name": {
+      "label": "Nome",
+      "placeholder": "Digite seu nome"
+    },
+    "email": {
+      "label": "E-mail",
+      "placeholder": "Digite seu e-mail"
+    },
+    "message": {
+      "label": " Mensagem",
+      "placeholder": "Digite sua mensagem aqui..."
+    }
+  },
+  "form_consent": {
+    "checkbox_text_part1": "Eu concordo que a Legend Brasil use meus dados pessoais para me contatar. Entendo que posso cancelar a inscrição a qualquer momento. Por favor, leia nossa",
+    "privacy_policy_link": "Política de Privacidade",
+    "checkbox_text_part2": "para detalhes sobre o uso de dados."
+  },
+  "form_submit_button": "Enviar Mensagem",
+  "form_sending_status": "Enviando...",
+  "form_success_message": "Mensagem enviada com sucesso!",
+  "form_error_message": "Falha ao enviar mensagem. Por favor, verifique sua entrada.",
+  
+
+  "leadership": {
+    "headline": "Eduardo Adriano – CEO & Fundador da EPIC Access",
+    "description": "Criado na Vila Mota, em Bragança Paulista, Eduardo Adriano começou a trabalhar aos 16 anos como empacotador. Sua jornada o levou a fundar a marca Bruds, onde se destacou por sua notável habilidade em conectar pessoas e criar pontes em lugares inesperados.\n\nSeu carisma, visão e talento para o networking abriram portas no cenário internacional. Hoje, Eduardo lidera a EPIC Access com o propósito de democratizar o acesso a momentos que realmente transformam vidas.",
+    "quote": "“Se é inacessível, é porque ainda não é EPIC.”",
+    "sections": {
+      "experiences_intro": "Ao longo de nossa trajetória, a EPIC Access esteve presente nos maiores palcos do mundo, ao lado de grandes personalidades do esporte e da cultura. Conectamos experiências inesquecíveis com ídolos e talentos que marcam gerações — cada um representando excelência, superação e influência global:",
+      "experiences": [
+        "Charles do Bronx, lenda do UFC e ex-campeão mundial, conhecido como um dos maiores finalizadores da história do MMA.",
+        "Maicon Sisenando, ídolo da Inter de Milão e campeão da Champions League, considerado um dos melhores laterais de sua geração.",
+        "Emerson Royal, destaque da Seleção Brasileira e titular do Tottenham, com acesso total ao backstage da Premier League.",
+        "Memphis Depay, craque da Seleção Holandesa e artista reconhecido no cenário global do rap.",
+        "Acelino “Popó” Freitas, multicampeão mundial e referência do boxe brasileiro, hoje estrela de grandes eventos de entretenimento.",
+        "Richard Camacho, cantor e dançarino do grupo latino CNCO, fenômeno pop nas Américas.",
+        "Cesare Casadei, promessa do futebol italiano, campeão e artilheiro da Copa do Mundo Sub-20 da FIFA.",
+        "Trippie Redd, rapper norte-americano com milhões de ouvintes e hits que marcaram a nova geração do trap.",
+        "Travis Scott, um dos maiores nomes da música mundial, referência em shows imersivos e cultura urbana.",
+        "Xavi Simons, talento precoce do futebol europeu, cria do Barcelona, ex-PSG e destaque da nova geração da Holanda."
+      ]
+    }
+  },
+  "about": {
+    "headline": "Conecte-se com os Maiores.",
+    "description": "Conectamos pessoas a experiências exclusivas com ídolos do esporte, música e cultura. Epic é mais que acesso — é um movimento que transforma momentos em memórias para a vida toda.",
+  
+    "page-description": "A EPIC Access é um hub global de entretenimento especializado em criar experiências imersivas e exclusivas com grandes personalidades e ídolos, em eventos de alto impacto e cenários inesquecíveis ao redor do mundo.",
+    "sections": {
+      "core_business": "Nosso core business é transformar desejos em vivências reais, com acesso único aos bastidores dos maiores eventos esportivos e culturais do planeta.",
+      "founder": "Fundada por Eduardo Adriano, brasileiro, 33 anos, vindo da quebrada de Bragança Paulista, a EPIC nasceu da visão de um sonhador que transformou sua história em uma máquina de criar conexões impossíveis.",
+      "track_record": "Já realizou experiências com ídolos como Maicon Sisenando (Inter de Milão), Emerson Royal (Tottenham), Real Madrid em jogos da Champions League, entre muitos outros.",
+      "events_intro": "Hoje, a EPIC Access atua nos maiores eventos do mundo, incluindo:",
+      "events": [
+        "Futebol: Champions, Copa do Mundo, Premier League, Libertadores",
+        "Esportes Americanos: NBA, UFC, boxe",
+        "Estilo de Vida & Cultura: Fórmula 1, tênis, golfe, música e experiências personalizadas com celebridades"
+      ],
+      "tailor_made": "Cada experiência é feita sob medida, com curadoria exclusiva, impacto social real e um storytelling que transforma clientes em protagonistas."
+    }
+  },
+  "terms": {
+
+    "sections": {
+      "one": {"title":"1. Natureza do Serviço", 
+      "description": "A EPIC Access oferece experiências exclusivas já estruturadas para os maiores eventos e campeonatos do mundo — como Champions League, Copa do Mundo, Premier League, UFC, NBA, Fórmula 1, Libertadores, entre outros.\n\nEssas experiências são desenhadas com curadoria própria, acesso diferenciado e vivências épicas ao lado de ídolos e personalidades, nos bastidores e nos espaços mais privilegiados de cada evento.\n\nAlém disso, atuamos também como consultoria especializada na criação de experiências sob demanda, personalizadas conforme o perfil do cliente, seja individual, corporativo ou institucional."},
+
+      "two": {"title":"2. Garantia e Regras de Participação", 
+      "description": "As experiências oferecidas são reais, porém estão sujeitas a imprevistos externos (como mudanças de agenda de atletas, condições climáticas ou segurança). Em caso de alteração, o cliente será notificado e uma alternativa proporcional será oferecida."},
+
+      "three": {"title":"3. Cancelamentos e Reembolsos", 
+      "description": "Experiências personalizadas não são reembolsáveis após confirmação e pagamento, salvo em caso de falha da EPIC em entregar o combinado. Todas as condições são pactuadas por contrato e detalhadas na proposta."},
+
+      "four": {"title":"4. Imagem e Divulgação", 
+      "description": "Ao participar das experiências, o cliente autoriza o uso de imagem para fins de registro e divulgação da marca, exceto se formalizar objeção por escrito antes da experiência."},
+
+      "five": {"title":"5. Conduta e Responsabilidade", 
+      "description": "A EPIC preza por ambientes de respeito, ética e segurança. Condutas inadequadas podem implicar em exclusão da experiência sem devolução de valores."}
+
+       
+
+    }
+  },
+  
+  "discover" : "Descubra as Experiências",
+  "gallery":"Galeria",
+  "mail":"Fale com um Especialista EPIC",
+  "see_less":"Veja menos",
+
+  "form": {
+    "title": "Entre em Contato",
+    "optional": "opcional",
+    "success": {
+      "title": "Mensagem enviada com sucesso",
+      "subtitle": "Recebemos suas informações e entraremos em contato em breve."
+    },
+    "steps": {
+      "personal": {
+        "title": "Informações pessoais"
+      },
+      "social": {
+        "title": "Redes sociais"
+      },
+      "creator": {
+        "title": "Perfil como criador"
+      },
+      "brands": {
+        "title": "Experiência com marcas"
+      },
+      "vision": {
+        "title": "Visão de futuro"
+      },
+      "purpose": {
+        "title": "Propósito e história"
+      },
+      "commitment": {
+        "title": "Compromisso"
+      }
+    },
+    "fields": {
+      "name": "Nome completo",
+      "email": "E-mail",
+      "phone": "Telefone / WhatsApp",
+      "location": "Cidade / País",
+      "instagram": "Instagram (Link para o Perfil)",
+      "otherSocials": "Outras redes (Tiktok, YouTube, etc.)",
+      "followers": "Quantidade de seguidores",
+      "niche": "Principal nicho de conteúdo",
+      "experienceTime": "Há quanto tempo cria conteúdo?",
+      "brandExperience": "Já trabalhou com marcas?",
+      "brandsWorked": "Quais marcas já trabalhou?",
+      "contentView": "Como você vê o conteúdo hoje?",
+      "campaignReady": "Está pronto para campanhas com marcas?",
+      "whyLegend": "Por que você quer fazer parte da Legend?",
+      "goals": "Quais são seus objetivos como criador?",
+      "differential": "O que te diferencia de outros criadores?",
+      "story": "Conte um pouco da sua história",
+      "availability": "Tem disponibilidade para projetos?",
+      "businessMindset": "Enxerga criação de conteúdo como negócio?"
+    },
+    "options": {
+      "yes": "Sim",
+      "no": "Não",
+      "niche": {
+        "humor": "Humor",
+        "lifestyle": "Lifestyle",
+        "fitness": "Fitness",
+        "sport": "Esporte",
+        "education": "Educação",
+        "other": "Outro"
+      },
+      "experience": {
+        "less_6": "Menos de 6 meses",
+        "6_12": "Entre 6 meses e 1 ano",
+        "1_plus": "Mais de 1 ano"
+      },
+      "brandExperience": {
+        "never": "Nunca trabalhei com marcas",
+        "few": "Já trabalhei com algumas marcas",
+        "often": "Trabalho com marcas com frequência"
+      },
+      "contentView": {
+        "hobby": "Apenas como hobby",
+        "extra": "Como renda extra",
+        "career": "Como carreira profissional"
+      }
+    },
+    "actions": {
+      "next": "Próximo",
+      "back": "Voltar",
+      "submit": "Enviar"
+    },
+    "status": {
+      "success": "Formulário enviado com sucesso!",
+      "error": "Erro ao enviar. Tente novamente."
+    },
+    "consent": "Concordo com o uso dos meus dados para contato e prestação de serviços pela Bellic World, conforme a Política de Privacidade."
+  }
+  
+}

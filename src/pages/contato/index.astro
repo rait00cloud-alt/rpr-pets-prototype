@@ -1,0 +1,19 @@
+---
+
+import Layout from '../../layouts/Layout.astro';
+import ContactForm from '../../components/Contact/ContactForm';
+
+---
+
+<Layout title="Contato">
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
+	<div class='w-full justify-center items-center '>
+		  
+		
+	<div class='w-full justify-center items-center overflow-hidden min-h-screen flex p-8' style="
+  				background: radial-gradient(circle, #222222 30%, #000000 80%);">
+				<ContactForm client:load/>		
+	</div>
+	
+</Layout>

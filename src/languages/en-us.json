@@ -1,0 +1,289 @@
+{
+  "menu": {
+    "home": "HOME",
+    "influencers": "INFLUENCERS",
+    "noticias": "NEWS",
+    "tv": "LEGEND TV",
+    "about_us": "ABOUT US",
+    "privacidade": "PRIVACY POLICY",
+    "contact": "BE A LEGEND360 INFLUENCER"
+  },
+  "fab": {
+    "tip": "Be our influencer"
+  },
+  "bio": {
+    "title": "Legend360",
+    "team": "Influencers",
+    "biografia": "Biography",
+    "text_01": "Legend360 transforms creators, brands, and athletes into digital powerhouses. We unite strategy, creativity, and speed to build positioning, generate influence, and drive real growth.",
+    "text_02": "Born from the vision of a former athlete who understood that performance doesn't happen by chance — but from routine, situational awareness, and precise execution — Legend 360 has established itself as a benchmark in influence management, audience expansion, and high-impact content production.",
+    "text_03": "Our roster brings together profiles that move people: from influencers who dominate humor, lifestyle, and authentic narratives to high-level athletes representing values, discipline, and emotional connection. We create movements, authority, and strategy.",
+    "text_04": "Whether in fast-paced campaigns riding the hype or deep narratives that build a brand, our focus is always the same: making sure brands are seen, remembered, and desired.",
+    "text_05": "Legend 360 — where strategy becomes influence. And influence becomes results."
+  },
+  "politica": {
+    "titulo": "Privacy Policy",
+    "introducao": "Legend360 values your privacy. This Privacy Policy explains how we handle data within the context of our Sports Marketing, Business Marketing, and Influence activities.",
+    "coleta": {
+      "titulo": "1. Information Collection",
+      "descricao": "We collect information voluntarily provided by you, such as name, email, and contact details, as well as automatic information, such as access data, cookies, and browsing behavior."
+    },
+    "uso": {
+      "titulo": "2. Use of Information",
+      "descricao": "We use your data to improve our services, personalize campaigns, optimize sports and business marketing strategies, and enhance relationships with influencers and partners."
+    },
+    "compartilhamento": {
+      "titulo": "3. Data Sharing",
+      "descricao": "We may share your data with strategic partners only when necessary for the execution of campaigns, advertisements, or marketing actions. We do not sell your information."
+    },
+    "direitos": {
+      "titulo": "4. Your Rights",
+      "descricao": "You may request access to, update, or deletion of your data at any time, in accordance with the General Data Protection Law (LGPD)."
+    },
+    "contato": {
+      "titulo": "5. Contact",
+      "descricao": "If you have questions about this Privacy Policy, please send an email to: contato@legend360.com.br."
+    }
+  },
+  "sobre": {
+    "kaio": "Kaio Magno - Founder & CEO",
+    "bio-01": "A former professional athlete and entrepreneur, Kaio Magno built his career by merging sports discipline with strategic business vision. As the founder of Legend360, an agency specialized in sports marketing and influence, he works on developing brands, athletes, and content creators with a focus on authenticity, performance, and community building.",
+    "bio-02": "With an approach centered on real connections and sustainable results, Kaio leads projects that unite purpose, creativity, and positioning, transforming stories into strong and relevant market brands."
+  },
+  "influencers": {
+    "bio": "Biography",
+    "numbers": "Numbers",
+    "contato": "Get in touch",
+    "hugo": {
+      "bio": "Hugo Souza, a 25-year-old goalkeeper developed by Flamengo, has established himself as one of the most reliable names in the position in Brazilian football. After a stint in European football, he joined Corinthians and quickly took on a leading role with decisive performances. Tall, explosive, and secure, Hugo stands out for his personality in big games and is currently a reference in goal, remaining on the radar of the Brazilian National Team."
+    },
+    "julia": {
+      "bio": "Júlia Yamaguchi is a Brazilian actress, born and raised in São Miguel Paulista, East Zone of São Paulo. The daughter of a Japanese mother and a Portuguese father, she graduated in Public Relations from Unesp before dedicating herself entirely to art and acting. She gained national prominence playing Scheylan in the series Sintonia (Netflix), a role that marked her career by addressing social and emotional themes with authenticity and intensity."
+    },
+    "talles": {
+      "bio": "Talles Magno, a 22-year-old forward developed by Vasco da Gama, is one of the main prospects in Brazilian football. After excelling in the MLS for New York City FC, where he won the MLS Cup, he returned to the country to play for Corinthians on loan. Fast, skillful, and versatile, Talles is establishing himself as an important offensive piece and continues to rise on the national and international stage."
+    },
+    "gordao": {
+      "bio": "Gordão da XJ, artistic name of Sidney, is a Brazilian influencer who gained notoriety by sharing his daily life with humor and his weight loss journey. He once weighed over 330 kg and became a national highlight by exposing his struggle with obesity, losing more than 100 kg in a process monitored by professionals. His authenticity, viral challenges—such as the one that earned him a house after hitting a weight goal—and strong social media presence have transformed him into a symbol of overcoming and inspiration for millions of followers."
+    },
+    "ldjunior": {
+      "bio": "LD Junior is a multifaceted Brazilian artist gaining prominence for his authenticity and talent. With a strong social media presence, he combines music, attitude, and worldview. His art moves through urban rhythms, bringing messages of empowerment, identity, culture, and peripheral experiences. Creative and charismatic, he maintains an intense connection with the public. More than just entertainment, LDJunior inspires and transforms, becoming a reference for a new generation of artists seeking to express themselves freely and truthfully."
+    },
+    "anaclara": {
+      "bio": "Ana Clara Augusto is a Brazilian digital influencer who produces content on fashion, lifestyle, and her academic journey in Law at UFRJ. She started on social media at age 10 and, even without planning a career as an influencer, conquered a large audience thanks to her story and charisma."
+    },
+    "rafaella": {
+      "bio": "Rafaella Fontes is a Brazilian footvolley and teqball athlete, native to Rio de Janeiro, known for her skill with the ball and beach competitions. She started footvolley young, accumulating several titles in women's, mixed, and open categories in national championships. Simultaneously, she also competes in futmesa and had a prominent role in the competitive teqball scene. In 2023, she became the World Teqball Champion representing Flamengo and Brazil, winning the title in Bangkok and gaining international recognition in the sport. Her career demonstrates versatility, technique, and significant achievements in both footvolley and ball modalities like teqball."
+    },
+    
+  "bruno": {
+    "bio": "Bruno Felipe was never about shortcuts. In his daily routine, he shows what it means to be a single father to a teenager and how he built his journey with truth, responsibility, and consistency—balancing work, family, and purpose in everyday life. From an early age, sports and self-care became pillars of his life—not just for aesthetics, but for mindset. Training became a tool for balance, health became a priority, and routine turned into content. Over time, what was once personal began to inspire others. An entrepreneur by nature, Bruno built his digital presence by showing exactly who he is: family, relationships, training, work, mistakes, and growth. No empty promises. No rehearsed speeches. Just consistency. Today, his content naturally connects lifestyle, health, and purpose, creating genuine identification with those who follow him. It is this authenticity that turns followers into a community and content into trust—something rare and extremely valuable for brands. Bruno Felipe represents a generation that understands that results are a consequence of process, and that real influence is born when real life meets purpose."
+
+  
+}
+
+  },
+  "hero": {
+    "title": "Become one of our influencers",
+    "button": "See more",
+    "publicidade": "Advertising",
+    "headline": "Those who understand people never depend on the algorithm.",
+    "headline-02": "Do you want views or brand recall?"
+  },
+  "language": {
+    "select": "Select language"
+  },
+  "title": {
+    "main_heading": "We are the bridge between you and the impossible.",
+    "main_subheading": "We don't sell tickets. We sell the kind of memory that changes your story.",
+    "sub_heading": "High-level networking."
+  },
+  "slide1_title": "Exploring new worlds.",
+  "slide1_description": "From the main stage to exclusive backstage. We connect people to unique experiences, creating memories that last forever. Epic is more than an event, it's a legacy.",
+  "slide2_title": "Access to the inaccessible.",
+  "slide2_description": "From the Champions League to the global music scene. We connect artists, create unique experiences, and take you where only the greats go. Epic is presence. It is influence. It is history.",
+  "see_more_button": "See More",
+  "close-btn": "Close",
+  "form_title": "Contact Us",
+  "form_fields": {
+    "name": {
+      "label": "Name",
+      "placeholder": "Enter your name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Enter your message here..."
+    }
+  },
+  "form_consent": {
+    "checkbox_text_part1": "I agree that Legend Brazil may use my personal data to contact me. I understand that I can unsubscribe at any time. Please read our",
+    "privacy_policy_link": "Privacy Policy",
+    "checkbox_text_part2": "for details on data usage."
+  },
+  "form_submit_button": "Send Message",
+  "form_sending_status": "Sending...",
+  "form_success_message": "Message sent successfully!",
+  "form_error_message": "Failed to send message. Please check your input."
+,
+  "leadership": {
+    "headline": "Eduardo Adriano – CEO & Founder of EPIC Access",
+    "description": "Raised in Vila Mota, Bragança Paulista, Eduardo Adriano started working at age 16 as a bagger. His journey led him to found the Bruds brand, where he stood out for his remarkable ability to connect people and build bridges in unexpected places.\n\nHis charisma, vision, and talent for networking opened doors on the international stage. Today, Eduardo leads EPIC Access with the purpose of democratizing access to moments that truly transform lives.",
+    "quote": "“If it’s inaccessible, it’s because it’s not yet EPIC.”",
+    "sections": {
+      "experiences_intro": "Throughout our history, EPIC Access has been present on the world's largest stages, alongside great personalities from sports and culture. We connect unforgettable experiences with idols and talents who mark generations — each representing excellence, overcoming, and global influence:",
+      "experiences": [
+        "Charles do Bronx, UFC legend and former world champion, known as one of the greatest finishers in MMA history.",
+        "Maicon Sisenando, Inter Milan idol and Champions League winner, considered one of the best full-backs of his generation.",
+        "Emerson Royal, standout for the Brazilian National Team and Tottenham starter, with full access to Premier League backstage.",
+        "Memphis Depay, Dutch National Team star and recognized artist in the global rap scene.",
+        "Acelino “Popó” Freitas, multi-time world champion and a benchmark in Brazilian boxing, now a star in major entertainment events.",
+        "Richard Camacho, singer and dancer from the Latin group CNCO, a pop phenomenon in the Americas.",
+        "Cesare Casadei, Italian football prospect, champion, and top scorer of the FIFA U-20 World Cup.",
+        "Trippie Redd, North American rapper with millions of listeners and hits that marked the new generation of trap.",
+        "Travis Scott, one of the biggest names in world music, a reference in immersive shows and urban culture.",
+        "Xavi Simons, early talent of European football, developed at Barcelona, ex-PSG, and a standout for the new Dutch generation."
+      ]
+    }
+  },
+  "about": {
+    "headline": "Connect with the Greatest.",
+    "description": "We connect people to exclusive experiences with sports, music, and culture idols. Epic is more than access — it’s a movement that transforms moments into lifelong memories.",
+    "page-description": "EPIC Access is a global entertainment hub specializing in creating immersive and exclusive experiences with major personalities and idols, in high-impact events and unforgettable settings around the world.",
+    "sections": {
+      "core_business": "Our core business is transforming desires into real experiences, with unique access to the backstage of the planet's largest sporting and cultural events.",
+      "founder": "Founded by Eduardo Adriano, Brazilian, 33 years old, coming from the outskirts of Bragança Paulista, EPIC was born from the vision of a dreamer who transformed his story into a machine for creating impossible connections.",
+      "track_record": "We have already carried out experiences with idols such as Maicon Sisenando (Inter Milan), Emerson Royal (Tottenham), Real Madrid in Champions League games, among many others.",
+      "events_intro": "Today, EPIC Access operates in the world's largest events, including:",
+      "events": [
+        "Football: Champions League, World Cup, Premier League, Libertadores",
+        "American Sports: NBA, UFC, Boxing",
+        "Lifestyle & Culture: Formula 1, Tennis, Golf, Music, and personalized experiences with celebrities"
+      ],
+      "tailor_made": "Each experience is tailor-made, with exclusive curation, real social impact, and storytelling that turns clients into protagonists."
+    }
+  },
+  "terms": {
+    "sections": {
+      "one": {
+        "title": "1. Nature of Service",
+        "description": "EPIC Access offers exclusive experiences already structured for the world's largest events and championships — such as the Champions League, World Cup, Premier League, UFC, NBA, Formula 1, Libertadores, among others.\n\nThese experiences are designed with our own curation, differentiated access, and epic experiences alongside idols and personalities, in the backstage and most privileged spaces of each event.\n\nAdditionally, we also act as a specialized consultancy in creating on-demand experiences, personalized according to the client's profile, whether individual, corporate, or institutional."
+      },
+      "two": {
+        "title": "2. Guarantee and Participation Rules",
+        "description": "The experiences offered are real, but subject to external unforeseen events (such as changes in athlete schedules, weather conditions, or security). In case of a change, the client will be notified and a proportional alternative will be offered."
+      },
+      "three": {
+        "title": "3. Cancellations and Refunds",
+        "description": "Personalized experiences are non-refundable after confirmation and payment, except in case of EPIC's failure to deliver as agreed. All conditions are agreed upon by contract and detailed in the proposal."
+      },
+      "four": {
+        "title": "4. Image and Publicity",
+        "description": "By participating in the experiences, the client authorizes the use of their image for recording and brand promotion purposes, unless they formalize an objection in writing prior to the experience."
+      },
+      "five": {
+        "title": "5. Conduct and Responsibility",
+        "description": "EPIC values environments of respect, ethics, and safety. Inappropriate conduct may result in exclusion from the experience without refund of amounts paid."
+      }
+    }
+  },
+  "discover": "Discover the Experiences",
+  "gallery": "Gallery",
+  "mail": "Speak with an EPIC Specialist",
+  "see_less": "See less",
+ 
+  "form": {
+    "title": "Become a Legend360 Influencer",
+    "optional": "optional",
+    "success": {
+      "title": "Form submitted successfully",
+      "subtitle": "We have received your information and will contact you shortly."
+    },
+    "steps": {
+      "personal": {
+        "title": "Personal information"
+      },
+      "social": {
+        "title": "Social media"
+      },
+      "creator": {
+        "title": "Creator profile"
+      },
+      "brands": {
+        "title": "Brand experience"
+      },
+      "vision": {
+        "title": "Future vision"
+      },
+      "purpose": {
+        "title": "Purpose and story"
+      },
+      "commitment": {
+        "title": "Commitment"
+      }
+    },
+    "fields": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone / WhatsApp",
+      "location": "City / Country",
+      "instagram": "Instagram (Profile link)",
+      "otherSocials": "Other platforms (TikTok, YouTube, etc.)",
+      "followers": "Number of followers",
+      "niche": "Main content niche",
+      "experienceTime": "How long have you been creating content?",
+      "brandExperience": "Have you worked with brands?",
+      "brandsWorked": "Which brands have you worked with?",
+      "contentView": "How do you see content creation today?",
+      "campaignReady": "Are you ready for brand campaigns?",
+      "whyLegend": "Why do you want to be part of Legend?",
+      "goals": "What are your goals as a creator?",
+      "differential": "What sets you apart from other creators?",
+      "story": "Tell us a bit about your story",
+      "availability": "Are you available for projects?",
+      "businessMindset": "Do you see content creation as a business?"
+    },
+    "options": {
+      "yes": "Yes",
+      "no": "No",
+      "niche": {
+        "humor": "Comedy",
+        "lifestyle": "Lifestyle",
+        "fitness": "Fitness",
+        "sport": "Sports",
+        "education": "Education",
+        "other": "Other"
+      },
+      "experience": {
+        "less_6": "Less than 6 months",
+        "6_12": "Between 6 months and 1 year",
+        "1_plus": "More than 1 year"
+      },
+      "brandExperience": {
+        "never": "I have never worked with brands",
+        "few": "I have worked with a few brands",
+        "often": "I frequently work with brands"
+      },
+      "contentView": {
+        "hobby": "Just as a hobby",
+        "extra": "As extra income",
+        "career": "As a professional career"
+      }
+    },
+    "actions": {
+      "next": "Next",
+      "back": "Back",
+      "submit": "Submit"
+    },
+    "status": {
+      "success": "Form submitted successfully!",
+      "error": "Error submitting the form. Please try again."
+    },
+    "consent": "I agree to the use of my data for contact, analysis, and influencer selection by Legend360, in accordance with the Privacy Policy."
+  }
+
+
+}
