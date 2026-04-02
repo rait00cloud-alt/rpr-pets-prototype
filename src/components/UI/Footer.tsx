@@ -17,8 +17,13 @@ const FooterComponent = () => (
           </a>
         ))}
       </nav>
+    
+       <p className="text-xs text-white/30 ">
+        Av. Beira Rio, 65a - Boa Vista, Piracaia - SP, 12970-000
+      </p>
     </div>
     <div className="max-w-5xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2 pt-6">
+        
       <p className="text-xs text-white/30 ">
         © {new Date().getFullYear()} RPR Pet — Todos os direitos reservados
       </p>
