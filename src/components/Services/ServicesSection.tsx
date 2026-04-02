@@ -181,7 +181,7 @@ export default function ServicesSection() {
 
   return (
     <>
-      <section id="servicos" className="relative py-24 px-6 bg-[#f2f0f1] overflow-hidden">
+      <section id="servicos" className="relative py-16 px-6 bg-[#f2f0f1] overflow-hidden">
         <Paw className="absolute top-6 left-6 w-10 h-10 text-[#fe7320]/15 rotate-[-20deg]" />
         <Paw className="absolute top-10 left-20 w-6 h-6 text-[#fe7320]/10 rotate-[10deg]" />
         <Paw className="absolute bottom-8 right-8 w-10 h-10 text-[#55a2d8]/15 rotate-[25deg]" />
@@ -230,14 +230,7 @@ export default function ServicesSection() {
             ))}
           </div>
 
-          <div className="text-center mt-12">
-            <a
-              href="#contato"
-              className="inline-block bg-[#fe7320] hover:bg-[#e5661a] text-white font-black px-10 py-4 rounded-xl transition-colors text-sm uppercase tracking-wide"
-            >
-              Agendar um serviço
-            </a>
-          </div>
+       
         </div>
       </section>
 
