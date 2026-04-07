@@ -71,7 +71,7 @@ export default function VideoBackground() {
           initial={{ scaleX: 0 }}
           animate={showLine ? { scaleX: 1 } : { scaleX: 0 }}
           transition={{ duration: 0.5, ease: "easeOut" }}
-          className="w-80 sm:w-148 h-[3px] bg-[#fe7320] origin-left"
+          className="w-80 sm:w-148 h-[3px] bg-[#80ccfe] origin-left"
         />
 
         <motion.div
@@ -82,13 +82,13 @@ export default function VideoBackground() {
         >
           <a
             href="#contato"
-            className="bg-[#fe7320] hover:bg-[#e5661a] text-white font-black px-7 py-3 rounded-xl transition-colors text-sm uppercase tracking-wide"
+            className="bg-[#80ccfe] hover:bg-[#6bb8e8] text-white font-black px-7 py-3 rounded-xl transition-colors text-sm uppercase tracking-wide"
           >
             Agendar agora
           </a>
           <a
             href="#servicos"
-            className="flex items-center gap-1 text-sm font-bold text-[#1a1a1a]/60 hover:text-[#fe7320] transition-colors uppercase tracking-wide"
+            className="flex items-center gap-1 text-sm font-bold text-[#1a1a1a]/60 hover:text-[#80ccfe] transition-colors uppercase tracking-wide"
           >
             Ver serviços <span>→</span>
           </a>
@@ -98,3 +98,4 @@ export default function VideoBackground() {
     </section>
   );
 }
+

@@ -38,10 +38,10 @@ const FloatingActionButton = () => {
         target="_blank"
         rel="noopener noreferrer"
         whileTap={{ scale: 0.88 }}
-        className="w-14 h-14 rounded-full flex items-center justify-center shadow-xl bg-white"
+        className="w-14 h-14 rounded-full flex items-center justify-center shadow-xl bg-[#25D366]"
         aria-label="WhatsApp"
       >
-        <img src="/logos/rpr-pets-logo.png" alt="RPR Pet" className="w-10 h-10 object-contain" />
+        <img src="/logos/whatsapp.png" alt="RPR Pet" className="w-6 h-6 object-contain invert" />
       </motion.a>
     </motion.div>
   );

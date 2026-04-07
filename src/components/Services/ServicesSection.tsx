@@ -25,7 +25,7 @@ const services: Service[] = [
     overlayPhoto: '/photos/servicos/tosa.jpg',
     desc: 'Banho de ozônio com tecnologia que elimina bactérias e fungos, deixando o pelo brilhante e saudável. Tosa profissional para todas as raças e portes.',
     info: 'Valor varia conforme o porte e tipo de pelagem do seu pet.',
-    labelBg: 'bg-[#fe7320]',
+    labelBg: 'bg-[#59baff]',
     fields: [
       { name: 'name',      label: 'Seu nome',        required: true },
       { name: 'breed',   label: 'Raça do pet',                       required: true },
@@ -40,7 +40,7 @@ const services: Service[] = [
     overlayPhoto: '/photos/servicos/canil.jpg',
     desc: 'Seu pet em ótimas mãos durante o dia, com atividades supervisionadas, socialização e muito carinho. Ambiente seguro e estimulante.',
     info: 'Pacotes fechados por quantidade de dias. Consulte disponibilidade.',
-    labelBg: 'bg-[#55a2d8]',
+    labelBg: 'bg-[#59baff]',
     fields: [
       { name: 'name',      label: 'Seu nome',        required: true },
       
@@ -56,7 +56,7 @@ const services: Service[] = [
     overlayPhoto: '/photos/servicos/hotel.jpg',
     desc: 'Hospedagem confortável e segura para quando você precisar viajar. Rotina estruturada com alimentação, passeios e atenção individualizada.',
     info: 'R$ 120,00 por diária. Reservas sujeitas à disponibilidade.',
-    labelBg: 'bg-[#f2f0f1]',
+    labelBg: 'bg-[#59baff]',
     fields: [
       { name: 'name',     label: 'Seu nome',       required: true },
    
@@ -68,7 +68,7 @@ const services: Service[] = [
 ];
 
 const inputClass =
-  'border-2 border-white bg-white/10 backdrop-blur-sm rounded-xl px-4 py-3 text-sm text-white  focus:outline-none focus:border-[#fe7320] transition-colors w-full';
+  'border-2 border-white bg-white/10 backdrop-blur-sm rounded-xl px-4 py-3 text-sm text-white  focus:outline-none focus:border-[#80ccfe] transition-colors w-full';
 
 function ServiceOverlay({ service, onClose }: { service: Service; onClose: () => void }) {
   const [form, setForm] = useState<Record<string, string>>(
@@ -136,7 +136,7 @@ function ServiceOverlay({ service, onClose }: { service: Service; onClose: () =>
         </div>
 
         {/* Corpo */}
-        <div className="bg-[#fe7320] px-6 py-6 flex flex-col gap-4">
+        <div className="bg-[#80ccfe] px-6 py-6 flex flex-col gap-4">
           <p className="text-white text-md tracking-tight leading-relaxed">{service.desc}</p>
           <span className="inline-block bg-[#55a2d8]  text-white text-sm font-bold px-3 py-1 rounded-lg w-fit">
             {service.info}
@@ -161,7 +161,7 @@ function ServiceOverlay({ service, onClose }: { service: Service; onClose: () =>
             ))}
             <button
               type="submit"
-              className="mt-2 bg-[#55a2d8] hover:bg-[#e5661a] text-white font-black py-4 rounded-xl transition-colors text-sm uppercase tracking-wide"
+              className="mt-2 bg-[#55a2d8] hover:bg-[#6bb8e8] text-white font-black py-4 rounded-xl transition-colors text-sm uppercase tracking-wide"
             >
               Enviar pelo WhatsApp →
             </button>
@@ -182,13 +182,13 @@ export default function ServicesSection() {
   return (
     <>
       <section id="servicos" className="relative py-16 px-6 bg-[#f2f0f1] overflow-hidden">
-        <Paw className="absolute top-6 left-6 w-10 h-10 text-[#fe7320]/15 rotate-[-20deg]" />
-        <Paw className="absolute top-10 left-20 w-6 h-6 text-[#fe7320]/10 rotate-[10deg]" />
+        <Paw className="absolute top-6 left-6 w-10 h-10 text-[#80ccfe]/15 rotate-[-20deg]" />
+        <Paw className="absolute top-10 left-20 w-6 h-6 text-[#80ccfe]/10 rotate-[10deg]" />
         <Paw className="absolute bottom-8 right-8 w-10 h-10 text-[#55a2d8]/15 rotate-[25deg]" />
         <Paw className="absolute bottom-16 right-24 w-6 h-6 text-[#55a2d8]/10 rotate-[-10deg]" />
 
         <div className="max-w-5xl mx-auto relative z-10">
-          <p className="text-[#fe7320] font-black uppercase tracking-widest text-xs text-center mb-2">
+          <p className="text-[#80ccfe] font-black uppercase tracking-widest text-xs text-center mb-2">
             O que fazemos
           </p>
           <h2 className="text-3xl sm:text-4xl font-black text-[#1a1a1a] text-center mb-14">
@@ -215,13 +215,13 @@ export default function ServicesSection() {
                 </div>
 
                 {/* Veja mais — topo direito */}
-                <div className="absolute top-4 right-4 flex items-center gap-1 bg-black/30 backdrop-blur-sm rounded-md px-3 py-2">
-                  <span className="text-white text-xs font-bold uppercase tracking-wide">Veja mais</span>
+                <div className={`absolute top-4 right-4 flex items-center gap-1  backdrop-blur-sm rounded-md px-3 py-2 ${s.labelBg}`}>
+                  <span className="text-white text-xs font-bold uppercase tracking-wide">Agendar</span>
                   <ArrowRight size={14} className="text-white" />
                 </div>
 
                 {/* Título — inferior direito com cor por serviço */}
-                <div className={`absolute bottom-4 right-4 ${s.labelBg} rounded-md px-4 py-2`}>
+                <div className={`absolute bottom-4 right-4  rounded-md px-4 py-2`}>
                   <h3 className={`font-black text-base tracking-wide ${s.labelBg === 'bg-[#f2f0f1]' ? 'text-[#1a1a1a]' : 'text-white'}`}>
                     {s.title}
                   </h3>
@@ -242,3 +242,4 @@ export default function ServicesSection() {
     </>
   );
 }
+

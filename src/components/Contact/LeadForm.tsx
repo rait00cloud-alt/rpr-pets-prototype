@@ -23,14 +23,14 @@ export default function LeadForm() {
   if (sent) {
     return (
       <div className="text-center py-12">
-        <p className="text-2xl font-black text-[#fe7320]">Mensagem enviada!</p>
+        <p className="text-2xl font-black text-[#80ccfe]">Mensagem enviada!</p>
         <p className="text-gray-500 mt-2 ">Em breve entraremos em contato.</p>
       </div>
     );
   }
 
   const inputClass =
-    'border-2 border-gray-200 rounded-md px-4 py-3 text-sm text-[#1a1a1a] focus:outline-none focus:border-[#fe7320] transition-colors bg-white';
+    'border-2 border-gray-200 rounded-md px-4 py-3 text-sm text-[#1a1a1a] focus:outline-none focus:border-[#80ccfe] transition-colors bg-white';
 
   return (
     <form onSubmit={handleSubmit} className="flex flex-col gap-4 w-full max-w-lg mx-auto">
@@ -50,11 +50,12 @@ export default function LeadForm() {
       />
       <button
         type="submit"
-        className="bg-[#fe7320] hover:bg-[#e5661a] text-white font-black py-4 rounded-xl transition-colors text-sm uppercase tracking-wide"
+        className="bg-[#80ccfe] hover:bg-[#6bb8e8] text-white font-black py-4 rounded-xl transition-colors text-sm uppercase tracking-wide"
       >
         Enviar pelo WhatsApp
       </button>
     </form>
   );
 }
+
 

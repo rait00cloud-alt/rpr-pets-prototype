@@ -4,9 +4,9 @@ const articles = [
   {
     icon: <Droplets size={20} strokeWidth={1.5} className="text-white" />,
     category: 'Banho & Tosa',
-    bg: 'bg-[#fe7320]',
-    tagBg: 'bg-[#fe7320]/10',
-    tagColor: 'text-[#fe7320]',
+    bg: 'bg-[#80ccfe]',
+    tagBg: 'bg-[#80ccfe]/10',
+    tagColor: 'text-[#80ccfe]',
     tag: 'Saúde do pelo',
     title: 'Por que o banho de ozônio é melhor para o seu pet?',
     body: [
@@ -38,13 +38,13 @@ export default function NewsSection() {
     <section id="noticias" className="relative py-24 px-6 bg-white overflow-hidden">
 
       {/* Patas decorativas */}
-      <Paw className="absolute top-8 right-10 w-10 h-10 text-[#fe7320]/12 rotate-[15deg]" />
-      <Paw className="absolute top-16 right-24 w-6 h-6 text-[#fe7320]/8 rotate-[-5deg]" />
+      <Paw className="absolute top-8 right-10 w-10 h-10 text-[#80ccfe]/12 rotate-[15deg]" />
+      <Paw className="absolute top-16 right-24 w-6 h-6 text-[#80ccfe]/8 rotate-[-5deg]" />
       <Paw className="absolute bottom-10 left-8 w-10 h-10 text-[#55a2d8]/12 rotate-[-20deg]" />
       <Paw className="absolute bottom-20 left-20 w-5 h-5 text-[#55a2d8]/8 rotate-[10deg]" />
 
       <div className="max-w-5xl mx-auto relative z-10">
-        <p className="text-[#fe7320] font-black uppercase tracking-widest text-xs text-center mb-2">
+        <p className="text-[#80ccfe] font-black uppercase tracking-widest text-xs text-center mb-2">
           Dicas & Cuidados
         </p>
         <h2 className="text-3xl sm:text-4xl font-black text-[#1a1a1a] text-center mb-14">
@@ -78,3 +78,4 @@ export default function NewsSection() {
     </section>
   );
 }
+

@@ -46,7 +46,7 @@ const HeaderComponent = () => {
               <a
                 key={item.href}
                 href={item.href}
-                className={`text-xs font-black uppercase tracking-widest transition-colors hover:text-[#fe7320] ${linkColor}`}
+                className={`text-xs font-black uppercase tracking-widest transition-colors hover:text-[#80ccfe] ${linkColor}`}
               >
                 {item.label}
               </a>
@@ -83,7 +83,7 @@ const HeaderComponent = () => {
               animate={{ x: 0 }}
               exit={{ x: '-100%' }}
               transition={{ duration: 0.35, ease: 'easeOut' }}
-              className="fixed top-0 left-0 h-full w-72 bg-white z-[999] flex flex-col border-r-4 border-[#fe7320]"
+              className="fixed top-0 left-0 h-full w-72 bg-white z-[999] flex flex-col border-r-4 border-[#80ccfe]"
             >
               <div className="flex items-center justify-between px-6 py-5 border-b border-gray-100">
                 <img src="/logos/rpr-pets-logo-02.png" alt="RPR Pet" className="h-8 object-contain" />
@@ -105,7 +105,7 @@ const HeaderComponent = () => {
                     initial={{ opacity: 0, x: -20 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.1 + i * 0.07, duration: 0.3 }}
-                    className="text-[#1a1a1a] font-bold uppercase tracking-wide text-sm py-3 border-b border-gray-100 hover:text-[#fe7320] transition-colors"
+                    className="text-[#1a1a1a] font-bold uppercase tracking-wide text-sm py-3 border-b border-gray-100 hover:text-[#80ccfe] transition-colors"
                   >
                     {item.label}
                   </motion.a>
@@ -116,7 +116,7 @@ const HeaderComponent = () => {
                 <a
                   href="#contato"
                   onClick={() => setOpen(false)}
-                  className="block w-full text-center bg-[#fe7320] hover:bg-[#e5661a] text-white font-bold py-3 rounded-xl text-sm uppercase tracking-wide transition-colors"
+                  className="block w-full text-center bg-[#80ccfe] hover:bg-[#6bb8e8] text-white font-bold py-3 rounded-xl text-sm uppercase tracking-wide transition-colors"
                 >
                   Agendar agora
                 </a>
@@ -130,3 +130,4 @@ const HeaderComponent = () => {
 };
 
 export default HeaderComponent;
+

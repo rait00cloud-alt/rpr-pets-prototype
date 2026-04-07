@@ -1,7 +1,7 @@
 const FooterComponent = () => (
   <footer className="bg-[#1a1a1a] text-white pt-12 pb-8 px-6">
     <div className="max-w-5xl mx-auto flex flex-col sm:flex-row items-center sm:items-center justify-between gap-8 pb-8 border-b border-white/10">
-      <img src="/logos/rpr-pets-logo.png" alt="RPR Pet" className="h-10 object-contain" />
+      
       <nav className="flex flex-wrap gap-6">
         {[
           { label: 'Serviços', href: '#servicos' },
@@ -11,7 +11,7 @@ const FooterComponent = () => (
           <a
             key={item.href}
             href={item.href}
-            className="text-xs font-bold uppercase tracking-wide text-white/50 hover:text-[#fe7320] transition-colors"
+            className="text-xs font-bold uppercase tracking-wide text-white/50 hover:text-[#80ccfe] transition-colors"
           >
             {item.label}
           </a>
@@ -38,4 +38,5 @@ const FooterComponent = () => (
 );
 
 export default FooterComponent;
+
 
