@@ -75,7 +75,7 @@ export default function VideoBackground() {
 
         <h1 className="font-black text-2xl md:text-3xl tracking-tight leading-snug min-h-[2.5rem]">
           {showWords.join(" ")}
-          <span className="animate-pulse">|</span>
+          <span className="animate-pulse"></span>
         </h1>
 
         <motion.div
