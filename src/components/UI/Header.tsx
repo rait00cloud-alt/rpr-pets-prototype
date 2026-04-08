@@ -46,7 +46,7 @@ const HeaderComponent = () => {
               <a
                 key={item.href}
                 href={item.href}
-                className={`text-xs font-black uppercase tracking-widest transition-colors hover:text-[#80ccfe] ${linkColor}`}
+                className={`text-xs font-black uppercase tracking-widest transition-colors hover:text-[#80ccfe] text-black`}
               >
                 {item.label}
               </a>
