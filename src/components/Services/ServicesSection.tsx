@@ -21,7 +21,7 @@ const services: Service[] = [
   {
     icon: <Droplets size={24} strokeWidth={1.5} className="text-white" />,
     title: 'Banho e Tosa',
-    photo: '/photos/shower.jpg',
+    photo: '/photos/banho-e-tosa.jpg',
     overlayPhoto: '/photos/servicos/tosa.jpg',
     desc: 'Banho de ozônio com tecnologia que elimina bactérias e fungos, deixando o pelo brilhante e saudável. Tosa profissional para todas as raças e portes.',
     info: 'Valor varia conforme o porte e tipo de pelagem do seu pet.',
@@ -36,7 +36,7 @@ const services: Service[] = [
   {
     icon: <Sun size={24} strokeWidth={1.5} className="text-white" />,
     title: 'Creche',
-    photo: '/photos/outside.jpg',
+    photo: '/photos/creche.jpg',
     overlayPhoto: '/photos/servicos/canil.jpg',
     desc: 'Seu pet em ótimas mãos durante o dia, com atividades supervisionadas, socialização e muito carinho. Ambiente seguro e estimulante.',
     info: 'Pacotes fechados por quantidade de dias. Consulte disponibilidade.',
@@ -52,7 +52,7 @@ const services: Service[] = [
   {
     icon: <Moon size={24} strokeWidth={1.5} className="text-white" />,
     title: 'Hotel',
-    photo: '/photos/hotel.jpg',
+    photo: '/photos/hotel.avif',
     overlayPhoto: '/photos/servicos/hotel.jpg',
     desc: 'Hospedagem confortável e segura para quando você precisar viajar. Rotina estruturada com alimentação, passeios e atenção individualizada.',
     info: 'R$ 120,00 por diária. Reservas sujeitas à disponibilidade.',
