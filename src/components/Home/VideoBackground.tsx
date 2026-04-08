@@ -2,8 +2,8 @@ import { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { PawPrint } from "lucide-react";
 
-const DESKTOP_VIDEO = "/videos/full-video-petshop.mp4";
-const MOBILE_VIDEO = "/videos/full-video-petshop.mp4"; 
+const DESKTOP_VIDEO = "/videos/desktop.mp4";
+const MOBILE_VIDEO = "/videos/desktop.mp4"; 
 
 const TITLE = "O melhor cuidado para o seu pet";
 const WORDS = TITLE.split(" ");
@@ -53,7 +53,7 @@ export default function VideoBackground() {
         initial={{ filter: "blur(12px)", opacity: 0.5 }}
         animate={{ filter: "blur(0px)", opacity: 1 }}
         transition={{ duration: 0.9, ease: "easeInOut" }}
-        className="relative overflow-hidden h-[560px] md:h-[680px]"
+        className="relative overflow-hidden h-[380px] md:h-[680px]"
       >
         <video
           ref={videoRef}
@@ -67,7 +67,7 @@ export default function VideoBackground() {
           src={isMobile ? MOBILE_VIDEO : DESKTOP_VIDEO}
         />
         {/* Gradiente inferior para transição suave */}
-        <div className="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-[#f2f0f1] to-transparent" />
+        <div className="absolute bottom-0 left-0 w-full h-16 bg-gradient-to-t from-[#f2f0f1] to-transparent" />
       </motion.div>
 
       {/* Texto + CTA */}

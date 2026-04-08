@@ -23,7 +23,7 @@ const HeaderComponent = () => {
   return (
     <>
       <motion.header
-        className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${
+        className={`relative w-full z-50 transition-all duration-300 ${
           scrolled ? 'bg-white/95 shadow-sm' : 'bg-transparent'
         }`}
       >
@@ -35,9 +35,9 @@ const HeaderComponent = () => {
             onClick={() => setOpen(true)}
             aria-label="Abrir menu"
           >
-            <span className={`block w-6 h-[2px] transition-all ${barColor}`} />
-            <span className={`block w-6 h-[2px] transition-all ${barColor}`} />
-            <span className={`block w-4 h-[2px] transition-all ${barColor}`} />
+            <span className={`block w-6 h-[2px] transition-all bg-black`} />
+            <span className={`block w-6 h-[2px] transition-all bg-black`} />
+            <span className={`block w-4 h-[2px] transition-all bg-black`} />
           </button>
 
           {/* Desktop: nav links esquerda */}
@@ -58,8 +58,8 @@ const HeaderComponent = () => {
             <img
               src="/logos/rpr-pets-logo-02.png"
               alt="RPR Pet"
-              className={`h-8 w-auto object-contain transition-all duration-300 ${
-                scrolled ? '' : 'drop-shadow-[0_1px_4px_rgba(0,0,0,0.6)]'
+              className={`h-8 w-auto object-contain transition-all duration-300 invert ${
+                scrolled ? '' : ''
               }`}
             />
           </a>
@@ -86,7 +86,7 @@ const HeaderComponent = () => {
               className="fixed top-0 left-0 h-full w-72 bg-white z-[999] flex flex-col border-r-4 border-[#80ccfe]"
             >
               <div className="flex items-center justify-between px-6 py-5 border-b border-gray-100">
-                <img src="/logos/rpr-pets-logo-02.png" alt="RPR Pet" className="h-8 object-contain" />
+                <img src="/logos/rpr-pets-logo-02.png" alt="RPR Pet" className="h-8 object-contain invert" />
                 <button
                   onClick={() => setOpen(false)}
                   className="text-[#1a1a1a] text-xl font-bold leading-none"
