@@ -2,6 +2,9 @@ import { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { PawPrint } from "lucide-react";
 
+const DESKTOP_VIDEO = "/videos/desktop.mp4";
+const MOBILE_VIDEO = "/videos/mobile.mp4"; // substituir pelo vídeo mobile
+
 const TITLE = "O melhor cuidado para o seu melhor amigo";
 const WORDS = TITLE.split(" ");
 
@@ -10,6 +13,14 @@ export default function VideoBackground() {
   const [showWords, setShowWords] = useState<string[]>([]);
   const [showLine, setShowLine] = useState(false);
   const [showCTA, setShowCTA] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 768);
+    check();
+    window.addEventListener('resize', check);
+    return () => window.removeEventListener('resize', check);
+  }, []);
 
   useEffect(() => {
     WORDS.forEach((word, i) => {
@@ -53,7 +64,7 @@ export default function VideoBackground() {
           playsInline
           disablePictureInPicture
           disableRemotePlayback
-          src="/videos/full-video-petshop.mp4"
+          src={isMobile ? MOBILE_VIDEO : DESKTOP_VIDEO}
         />
         {/* Gradiente inferior para transição suave */}
         <div className="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-[#f2f0f1] to-transparent" />
