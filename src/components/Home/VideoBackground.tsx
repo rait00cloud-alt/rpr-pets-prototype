@@ -5,7 +5,7 @@ import { PawPrint } from "lucide-react";
 const DESKTOP_VIDEO = "/videos/desktop.mp4";
 const MOBILE_VIDEO = "/videos/mobile.mp4"; 
 
-const TITLE = "O melhor cuidado para o seu melhor amigo";
+const TITLE = "O melhor cuidado para o seu pet";
 const WORDS = TITLE.split(" ");
 
 export default function VideoBackground() {
