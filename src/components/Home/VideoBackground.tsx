@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { PawPrint } from "lucide-react";
 
 const DESKTOP_VIDEO = "/videos/desktop.mp4";
-const MOBILE_VIDEO = "/videos/mobile.mp4"; // substituir pelo vídeo mobile
+const MOBILE_VIDEO = "/videos/mobile.mp4"; 
 
 const TITLE = "O melhor cuidado para o seu melhor amigo";
 const WORDS = TITLE.split(" ");
