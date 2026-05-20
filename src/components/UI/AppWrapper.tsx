@@ -5,10 +5,9 @@ import FloatingActionButton from './FloatingActionButton';
 export default function AppWrapper({ children }: any) {
   return (
     <>
-      <HeaderComponent />
-      <FloatingActionButton />
+      
       <main>{children}</main>
-      <FooterComponent />
+      
     </>
   );
 }
